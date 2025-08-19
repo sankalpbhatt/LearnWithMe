@@ -1,2 +1,35 @@
-# LearnWithMe
-Posting tutorials for my youtube content
+# LearnWithMe – Java Concepts Playground
+
+**LearnWithMe** is a hands-on repository designed to accompany my YouTube tutorials and demonstrate core Java concepts introduced in Java 8 and beyond.
+
+## 🚀 What’s Inside
+
+###  Current Example
+- **[Java Record Classes](https://github.com/sankalpbhatt/LearnWithMe/tree/main/src/main/java/org/example/record)**
+    - Demonstrates use of both final and non-final record examples.
+    - Shows how Java automatically provides `equals()`, `hashCode()`, and `toString()`.
+    - Includes constructor chaining for default values or validation.
+
+###  Coming Soon
+Stay tuned! More topic-focused examples are on the way, such as:
+- Lambdas & Functional Interfaces (Java 8)
+- Streams API
+- `Optional` and null-safety techniques
+- Default & static methods in interfaces
+- Local variable type inference (`var`)
+- Text Blocks (multiline string literals)
+- Switch Expressions & Pattern Matching (Java 14–16+)
+- Sealed Classes for controlled inheritance
+- And more!
+
+##  Why This Repository Exists
+
+- To **supplement my YouTube tutorials** with ready-to-run code examples.
+- To serve as a go-to **learning resource** for Java learners and interview prep.
+- To demonstrate **clean, modern Java coding techniques** that reduce boilerplate and embrace best practices.
+
+##  How to Use This Repository
+
+1. **Clone or download** this repository:
+   ```bash
+   git clone https://github.com/sankalpbhatt/LearnWithMe.git
