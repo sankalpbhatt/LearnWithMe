@@ -5,10 +5,14 @@
 ## 🚀 What’s Inside
 
 ###  Current Example
-- **[Java Record Classes](https://github.com/sankalpbhatt/LearnWithMe/tree/main/src/main/java/org/example/record)**
+- **[Record Classes](https://github.com/sankalpbhatt/LearnWithMe/tree/main/src/main/java/org/example/record)**
     - Demonstrates use of both final and non-final record examples.
     - Shows how Java automatically provides `equals()`, `hashCode()`, and `toString()`.
     - Includes constructor chaining for default values or validation.
+- **[Sealed Classes](https://github.com/sankalpbhatt/LearnWithMe/tree/main/src/main/java/org/example/sealed)**
+    - Demonstrates use of sealed classes.
+    - Shows how to extend sealed classes for `final` and `non-sealed`.
+    
 
 ###  Coming Soon
 Stay tuned! More topic-focused examples are on the way, such as:
@@ -19,7 +23,6 @@ Stay tuned! More topic-focused examples are on the way, such as:
 - Local variable type inference (`var`)
 - Text Blocks (multiline string literals)
 - Switch Expressions & Pattern Matching (Java 14–16+)
-- Sealed Classes for controlled inheritance
 - And more!
 
 ##  Why This Repository Exists
