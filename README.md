@@ -12,13 +12,15 @@
 - **[Sealed Classes](https://github.com/sankalpbhatt/LearnWithMe/tree/main/src/main/java/org/example/sealed)**
     - Demonstrates use of sealed classes.
     - Shows how to extend sealed classes for `final` and `non-sealed`.
-    
+- **[Optional](https://github.com/sankalpbhatt/LearnWithMe/tree/main/src/main/java/org/example/optional)**
+    - Demonstrates use of Optional. How it is created and used.
+    - Shows when to use `Optional.of` and `Optional.ofNullable`.
 
+optional
 ###  Coming Soon
 Stay tuned! More topic-focused examples are on the way, such as:
 - Lambdas & Functional Interfaces (Java 8)
 - Streams API
-- `Optional` and null-safety techniques
 - Default & static methods in interfaces
 - Local variable type inference (`var`)
 - Text Blocks (multiline string literals)
