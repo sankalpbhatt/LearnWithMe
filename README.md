@@ -15,6 +15,9 @@
 - **[Optional](https://github.com/sankalpbhatt/LearnWithMe/tree/main/src/main/java/org/example/optional)**
     - Demonstrates use of Optional. How it is created and used.
     - Shows when to use `Optional.of` and `Optional.ofNullable`.
+- **[Optional](https://github.com/sankalpbhatt/LearnWithMe/tree/main/src/main/java/org/example/var)**
+  - Demonstrates use of var. How it is used.
+  - Prints the type of variable after declaration to demonstrate complier inferences the type.
 
 optional
 ###  Coming Soon
